@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Sans:wght@500&family=Lato&family=Nunito+Sans&family=Roboto:ital,wght@1,100&family=Source+Sans+Pro&display=swap');
 .img-crop{
     width: 100px;
     height: 100px;
@@ -9,6 +10,7 @@
     /* display: inline; */
     margin-top: -74px;
     margin-left: 119px;
+    font-family: 'Nunito Sans', sans-serif;
 }
 header{
     background-color: black;
@@ -20,10 +22,14 @@ header{
 .head-right{
     float: right;
     margin-right: 110px;
-    margin-top: -45px;
+    margin-top: -58px;
 
 }
 a{
     padding: 20px;
     color: white;
+    font-size: x-large;
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    
 }
