@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Sans:wght@500&family=Lato&family=Nunito+Sans&family=Roboto:ital,wght@1,100&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bungee+Spice&family=Candal&family=Josefin+Sans:wght@500&family=Lato&family=Nunito+Sans&family=Righteous&family=Roboto:ital,wght@1,100&family=Source+Sans+Pro&display=swap');
 .img-crop{
     width: 100px;
     height: 100px;
@@ -32,4 +32,56 @@ a{
     font-family: 'Lato', sans-serif;
     text-decoration: none;
     
+}
+#front-pic{
+    width: 103.95%;
+    height: 652px;
+    filter: brightness(30%);
+    
+    
+}
+body{
+    margin: 0%;
+}
+.front-head{
+    font-size: 80px;
+    margin-top: -380px;
+    margin-left: 54px;
+    color: white;
+    font-family: 'Candal', sans-serif;
+    position: absolute;
+
+    
+}
+section{
+    width: 100%;
+}
+#address{
+    color: white;
+    position: absolute;
+    margin-top: -270px;
+    margin-left: 59px;
+    font-family: 'Lato', sans-serif;
+}
+#social-media{
+    margin-top: -132px;
+    margin-left: 55px;
+    position: absolute;
+    font-size: 50px;
+    color: white;
+    
+}
+.sm{
+    padding: 10px;
+    
+}
+button{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: white;
+    font-size: 35px;
 }
